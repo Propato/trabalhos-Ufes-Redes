@@ -116,3 +116,4 @@ Já do Servidor para o Cliente, aplica-se apenas a criptografia com a chave de s
  - Implementar Super Classes para as classes do servidor e do cliente
  - Implementar Sistema de Testes
  - Adicionar mais comentários no código
+ - Adicionar imagens ilustrativas e icones nos README's para melhorar o visual do projeto
