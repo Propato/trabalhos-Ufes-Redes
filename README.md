@@ -25,14 +25,14 @@ Para informações precisas sobre requisitos, tecnologias e passo-a-passo, veja 
 Para clonar o repositório e ter todos os códigos:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/Propato/trabalhos-Ufes-Redes.git
 ```
 
 ## O Projeto
 
 Foi desenvolvido um servidor que apresenta ao cliente um Menu com diversas operações, que variam conforme o nível de usuário.
 
-*É importante usar a biblioteca criada para o menor para que seja possível a comunicação correta e estruturada entre Cliente x Servidor.*
+É importante usar a biblioteca criada para o cliente para que seja possível a comunicação correta e estruturada entre Cliente x Servidor.
 
 ### Operações
 
