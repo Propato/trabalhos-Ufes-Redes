@@ -1,0 +1,27 @@
+{
+    "adm": {
+        "password": "$2b$12$1p8HOGoOYyRxmnstZpbCluNrYQVXZTHHdL7VbVaRuejD4Lqs34fbO",
+        "level": 2,
+        "status": 0
+    },
+    "propato": {
+        "password": "$2b$12$eXPs0oNLCPzlB5a5dTqCIOw3qjnNio8hFbAL5ZnEGYInq9pAupLFa",
+        "level": 1,
+        "status": 0
+    },
+    "123": {
+        "password": "$2b$12$kI71ZBHmMH.8ywGJ6AiE.O04.m94WLNdCfCI3bcH7oViGmJukIg3K",
+        "level": 1,
+        "status": 0
+    },
+    "pato": {
+        "password": "$2b$12$0zEwWdplRHAdhmI53c2gb.j4TDf2ClHAHxIJGtQXS75BsoYqUtr4y",
+        "level": 1,
+        "status": 0
+    },
+    "aaa": {
+        "password": "$2b$12$d/9TyRt50zTS3BD0s6Ib1ukPjzj4Dww7Rb83KqHcjPtlfU.9awJAC",
+        "level": 1,
+        "status": 0
+    }
+}
